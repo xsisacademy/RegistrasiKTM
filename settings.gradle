@@ -1,0 +1,2 @@
+include ':app', ':inputktm'
+rootProject.name='RegistrasiKTM'
